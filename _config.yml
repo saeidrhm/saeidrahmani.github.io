@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "saeidrahmani.jpg"
+  avatar           : "SaeidRahmani.jpg"
   name             : "Saeid Rahmani"  # Updated with your name
   pronouns         : 
   bio              : "Multidisciplinary expert combining web development, AI, and biomedical research. Experienced in cancer genetics, immunology, and neuroscience."  # Updated based on your CV summary
