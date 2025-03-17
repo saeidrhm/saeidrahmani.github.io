@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "saeidrahmani.jpg"
+  name             : "Saeid Rahmani"  # Updated with your name
+  pronouns         : 
+  bio              : "Multidisciplinary expert combining web development, AI, and biomedical research. Experienced in cancer genetics, immunology, and neuroscience."  # Updated based on your CV summary
   location         : "Tehran, Iran"
   employer         : "IPM Institute For Research In Fundamental Sciences"
-  uri              : # URL
-  email            : "s.rahmani@ipm.ir" 
+  uri              : 
+  email            : "s.rahmani@ipm.ir"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -38,16 +38,16 @@ author:
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Saeid-Rahmani-2" # URL
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "saeidrhm"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "9565303/srhm" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -59,11 +59,11 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "saeid-rahmani" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  soundcloud       : "said-rahmani" # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
