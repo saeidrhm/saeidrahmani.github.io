@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "SaeidRahmani.jpg"
-  name             : "Saeid Rahmani"  # Updated with your name
+  name             : ""  # Updated with your name
   pronouns         : 
-  bio              : "Multidisciplinary expert combining web development, AI, and biomedical research. Experienced in cancer genetics, immunology, and neuroscience."  # Updated based on your CV summary
+  bio              : "Multidisciplinary expert in web development, AI, and biomedical research. Experienced in cancer genetics, immunology, and neuroscience."  # Updated based on your CV summary
   location         : "Tehran, Iran"
-  employer         : "IPM,\ Institute For Research\ In Fundamental Sciences"
+  employer         : "IPM,\s\s Institute For Research\s\s In Fundamental Sciences"
   uri              : 
   email            : "s.rahmani@ipm.ir"
 
