@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV (PDF)](http://saeidrhm.github.io/files/SaeidRahmaniCV.pdf)
+
 ## Summary
 Saeid Rahmani is a multidisciplinary expert in web development, AI, and biomedical research. As a full-stack developer, he builds and maintains high-performance web platforms, while his research focuses on cancer genetics, immunology, and neuroscience, developing computational tools for medical applications. His expertise in machine learning, bioinformatics, and neural signal processing supports advancements in medical and computational research. Proficient in Python, R, Java, and AI frameworks, he excels in both technology and life sciences.
 
